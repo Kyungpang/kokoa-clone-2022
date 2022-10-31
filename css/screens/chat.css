@@ -1,7 +1,9 @@
-#chat-screen {
+#chat-screen,
+#chat-screen .status-bar,
+#chat-screen .alt-header {
   background-color: #abc1d1;
 }
 
-.alt-header .fa-bars {
-  margin-left: 25px;
+.main-chat {
+  margin-top: 150px;
 }

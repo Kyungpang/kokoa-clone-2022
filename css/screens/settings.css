@@ -1,3 +1,7 @@
+.settings-screen {
+  margin-top: 108px;
+}
+
 .settings__setting {
   padding: 25px 0px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
